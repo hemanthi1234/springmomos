@@ -1,1 +1,2 @@
-# springmomos
+For Equinox 2023, our team The Tech Turtles has created a project on Inventory Management System for a Canteen. 
+This is a user-friendly system helps the vendor to keep a track on his sales, keep a eye on incoming and outgoing stock, maintain a required limit of stock, have an authorised access to the account which ensures privacy and security of the user and give total analysis of his/her monthly sale to the user.
